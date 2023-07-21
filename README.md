@@ -17,8 +17,9 @@ Now You can run the code for use
 1. Firstly, you can either choose to run the solution in the *index.php* file or inject in your 
 php application as long as composer is installed, you are good to go!.<br><br>
 2. You can initialise the Catalog class but you need to import it into your file or controller class. e.g:
-<br>
-    ###   *`use ProductCatalogSorting\Catalog;`*
+
+
+      use ProductCatalogSorting\Catalog;
 <br>
 3. Declare your product inputs. e.g:<br>
 
