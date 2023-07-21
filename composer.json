@@ -1,0 +1,21 @@
+{
+  "name": "bee-tek/product-catalog-sorting-solution",
+  "description": "(Product Catalog Sorting Solution for Scnip)",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Blessing Ajala",
+      "email": "ajalablessing49@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ProductCatalogSorting\\": "src/"
+    }
+  }
+}
